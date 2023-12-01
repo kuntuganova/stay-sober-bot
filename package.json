@@ -1,0 +1,26 @@
+{
+  "name": "stay-sober-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuntuganova/stay-sober-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuntuganova/stay-sober-bot/issues"
+  },
+  "homepage": "https://github.com/kuntuganova/stay-sober-bot#readme",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "dotenv": "^16.3.1",
+    "expess": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.1"
+  }
+}
